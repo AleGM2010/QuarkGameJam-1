@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a84978fa7bf07734b8f6e08f4f5ce88d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CanvasPausePanel: {instanceID: 0}
+  - btn_Pause: {instanceID: 0}
+  - P: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
